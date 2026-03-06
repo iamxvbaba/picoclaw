@@ -1,21 +1,30 @@
 # User
 
-Information about user goes here.
+User profile for product management collaboration.
 
 ## Preferences
 
-- Communication style: (casual/formal)
-- Timezone: (your timezone)
-- Language: (your preferred language)
+- Communication style: concise and decision-oriented
+- Timezone: Asia/Shanghai
+- Language: Chinese
 
 ## Personal Information
 
 - Name: (optional)
-- Location: (optional)
-- Occupation: (optional)
+- Role: (founder / product manager / engineer / operator / other)
+- Industry: (optional)
+- Product stage: (idea / MVP / growth / mature)
 
-## Learning Goals
+## Product Context
 
-- What the user wants to learn from AI
-- Preferred interaction style
-- Areas of interest
+- Product name:
+- Core user segment:
+- Core scenario:
+- Current north-star metric:
+- Current bottleneck:
+
+## Collaboration Preferences
+
+- Preferred deliverables: PRD / roadmap / experiment plan / review memo
+- Preferred decision framework: RICE / Kano / MoSCoW
+- Desired detail level: high-level / implementation-ready
