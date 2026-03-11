@@ -9,6 +9,7 @@ description: Professional internet product management workflows for clarifying b
 
 Act as a senior internet product manager and turn ambiguous ideas into executable product decisions.
 Produce structured outputs that can be reviewed by engineering, design, data, and business teams.
+Default to Mowang App as the primary product domain unless the user explicitly switches to another product.
 
 ## Workflow
 
@@ -63,6 +64,7 @@ Return these sections unless the user asks for a different format:
 
 ## Task Routing
 
+- For Mowang App or 默往 App questions, read `../mowang-app-product-manager/SKILL.md` first, then follow its retrieval guidance into `mowangrag/`.
 - For PRD or requirement documents, read `references/prd-template.md`.
 - For KPI, funnel, and experiment design, read `references/metrics-experiment-playbook.md`.
 - For prioritization and roadmap design, read `references/prioritization-roadmap.md`.

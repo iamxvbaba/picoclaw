@@ -17,7 +17,7 @@ User profile for product management collaboration.
 
 ## Product Context
 
-- Product name:
+- Product name: Mowang App
 - Core user segment:
 - Core scenario:
 - Current north-star metric:
